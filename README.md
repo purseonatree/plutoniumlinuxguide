@@ -61,7 +61,7 @@ Install [Plutonium's Launcher](https://cdn.plutonium.pw/updater/plutonium.exe) a
 ## Step #4
 
 Install Proton GE, Technically you can just use Proton Experimental or any stable official release of Proton. However GE has [NTSync](https://docs.kernel.org/userspace-api/ntsync.html)
-and has proven to give SIGNIFCANT performance increases for these old COD games.
+and has proven to give SIGNIFCANT performance increases for these old COD games. [Here's a good video covering the differences, the key is the frametimes.](https://www.youtube.com/watch?v=lZUxteV40tc)
 
 ### For ProtonUp-Qt Users
 

@@ -27,7 +27,7 @@ This was tested on Gentoo, CachyOS (Arch), & Linux Mint (Ubuntu/Debian)
 
 ## Step #1
 
-Buy the actual games on Steam if possible.
+Buy the actual games on Steam if possible. (and ofc install them)
 
 [World At War](https://store.steampowered.com/app/10090/Call_of_Duty_World_at_War/)
 
@@ -41,4 +41,12 @@ MW3 Server Tool (The Free and legal method): steam://rungameid/42750
 
 ## Step #2
 
-Make sure the games are installed on Steam (or through any other means we don't judge)
+Installing ProtonTricks via Flatpak
+
+### Ensure Flathub's repo is in your flatpak (and make sure flatpak is installed on your system)
+
+`flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo`
+
+### Installing
+
+``flatpak install flathub com.github.Matoking.protontricks``

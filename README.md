@@ -53,3 +53,16 @@ Installing ProtonTricks via Flatpak
 ### Installing
 
 ``flatpak install flathub com.github.Matoking.protontricks``
+
+## Step #3
+
+Install [Plutonium's Launcher](https://cdn.plutonium.pw/updater/plutonium.exe) and keep it in a directory that isn't in your Downloads, like your Documents for now.
+
+## Step #4
+
+Install Proton GE, Technically you can just use Proton Experimental or any stable official release of Proton. However GE has [NTSync](https://docs.kernel.org/userspace-api/ntsync.html)
+and has proven to give SIGNIFCANT performance increases for these old COD games.
+
+### For ProtonUp-Qt Users
+
+Just select GE in the GUI, select your Steam directory and hit install.

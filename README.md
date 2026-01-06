@@ -22,7 +22,7 @@ Bit more optional but highly recommended dependencies
 
 [Proton GE (Good because of NTSync giving these games significant performance gains)](https://github.com/GloriousEggroll/proton-ge-custom)
 
-[ProtonUp-Qt (Easier to obtain & update GE from](https://flathub.org/en/apps/net.davidotek.pupgui2)
+[ProtonUp-Qt (Easier to obtain & update GE from)](https://flathub.org/en/apps/net.davidotek.pupgui2)
 
 # The Actual Guide
 

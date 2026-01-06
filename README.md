@@ -43,7 +43,7 @@ MW3 Server Tool (The Free and legal method): steam://rungameid/42750
 
 Installing ProtonTricks via Flatpak
 
-### Ensure Flathub's repo is in your flatpak (and make sure flatpak is installed on your system)
+### Ensure Flathub's repo is in your flatpak (and make sure [flatpak](https://flathub.org/en/setup) is installed on your system)
 
 `flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo`
 

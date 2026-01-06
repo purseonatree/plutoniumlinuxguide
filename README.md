@@ -18,8 +18,11 @@ We suggest to NEVER play plutonium on an LCD steam deck, this is due to one chea
 
 [ProtonTricks (Flatpak & Convenience Reasons)](https://flathub.org/en/apps/com.github.Matoking.protontricks)
 
-[Proton GE (Good because of NTSync)](https://github.com/GloriousEggroll/proton-ge-custom)
+Bit more optional but highly recommended dependencies
 
+[Proton GE (Good because of NTSync giving these games significant performance gains)](https://github.com/GloriousEggroll/proton-ge-custom)
+
+[ProtonUp-Qt (Easier to obtain & update GE from](https://flathub.org/en/apps/net.davidotek.pupgui2)
 
 # The Actual Guide
 

@@ -1,16 +1,16 @@
-# Plutonium Linux Guide
+# Plutonium Linux Guide (WAW/BO1 Lag & sound fix included!)
 
-We've all been there, wanting to play COD on our linux machines, only to find out they are a HUGE security risk. That's why these launchers like Plutonium for this guide exist. While Linux users may not be as affected with these security issues due to us using WINE/Proton, still most of our friends over at Windows still wanna play cod without their PCs turning into bricks or worse, getting info stolen.
+Hello! This is a guide for getting the Call of Duty Plutonium client working on Linux with as little issues as possible. This includes fixes for every COD game supported by the Plutonium client. We will try to keep this guide as concise as possible and update this guide as time goes on and Proton improves.
 
 # Quick Notice
 
-This is NOT a piracy guide on how to obtain these games, they are recommended by the Plutonium Team to obtain them via Steam.
+This is NOT a piracy guide. We recommend obtaining these games legally if possible. Consult the official Plutonium installation guide (hyperlink to that page here) for better guidance on this, and use your own discretion if you wish to borrow these games from a friend.
 
-This is not in any way shape or form affilated with Plutonium or the Plutonium Team, we just like the client and want it playable on Linux
+This is not in any way shape or form affilated with Plutonium or the Plutonium Team. We just like the client and we love Linux!
 
 # FOR STEAM DECK LCD USERS
 
-We suggest to NEVER play plutonium on an LCD steam deck, this is due to one cheater deciding to cheat on a steam deck and Plutonium with their wisdom decided to hardware ban EVERY SINGLE LCD MODEL. Now this is due to Valve making them all the same ID, but we really gonna ban millions of steam decks over one cheater? Get your act together Plutonium... 
+Using Windows reportedly works, but Steam Deck LCD users on SteamOS and possibly other distros can ONLY play in LAN mode. Attempting to play normally will result in a banned hardware error. This is due to Plutonium's hardware ID ban protocol eventually flagging a cheater on the Steam Deck, resulting in every user with one being affected since each Deck shipped with the same hardware ID. If you wish to play Plutonium online on a Steam Deck, the OLED version is currently unaffected.
 
 # Required Dependencies
 
